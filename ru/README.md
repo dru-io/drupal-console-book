@@ -11,6 +11,7 @@
 ## Вклад в документацию
 
 Вы можете внести свой вклад в документацию на [GitHub](https://github.com/hechoendrupal/drupal-console-book).
+Координация русскоязычных переводов: [GitHub](https://github.com/dru-io/drupal-console-book) и [Чат по переводам](https://gitter.im/dru-io/L10n).
 
 ## Supporting organizations
 [![FFW](https://www.drupal.org/files/ffw-logo.png)](https://ffwagency.com)  
