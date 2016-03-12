@@ -1,14 +1,14 @@
 # config:export
 The **config:export** command Export current application configuration.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal config:export [options] 
 $ ce  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --directory | commands.config.export.options.directory
 --tar | commands.config.export.options.tar

@@ -1,17 +1,17 @@
 # database:restore
 The **database:restore** command Restore structure and contents of a database.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal database:restore [arguments] [options] 
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --file | The filename for your database backup file
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 database | Database key from settings.php

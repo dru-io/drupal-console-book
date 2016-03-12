@@ -1,19 +1,19 @@
 # help
 The **help** command Displays help for a command
 
-**Usage:**
+**Использование:**
 ```
 $ drupal help [arguments] [options] 
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --xml | To output help as XML
 --format | The output format (txt, xml, json, or md)
 --raw | To output raw command help
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 command_name | The command name

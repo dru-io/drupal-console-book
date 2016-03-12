@@ -1,7 +1,7 @@
 # container:debug
 The **container:debug** command Displays current services for an application.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal container:debug 
 $ cod  

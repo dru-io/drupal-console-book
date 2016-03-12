@@ -1,12 +1,12 @@
 # drush
 The **drush** command Run drush from console.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal drush [arguments] 
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 args | Drush arguments.

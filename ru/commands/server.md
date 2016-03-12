@@ -1,13 +1,13 @@
 # server
 The **server** command Runs PHP built-in web server
 
-**Usage:**
+**Использование:**
 ```
 $ drupal server [arguments] 
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 address | The address:port values
 

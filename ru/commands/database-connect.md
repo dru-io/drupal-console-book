@@ -1,12 +1,12 @@
 # database:connect
 The **database:connect** command Shows DB connection
 
-**Usage:**
+**Использование:**
 ```
 $ drupal database:connect [arguments] 
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 database | Database key from settings.php

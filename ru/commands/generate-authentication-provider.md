@@ -1,14 +1,14 @@
 # generate:authentication:provider
 The **generate:authentication:provider** command Generate an Authentication Provider
 
-**Usage:**
+**Использование:**
 ```
 $ drupal generate:authentication:provider [options] 
 $ gap  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --module | The Module name.
 --class | Authentication Provider class

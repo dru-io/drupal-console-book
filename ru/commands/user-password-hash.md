@@ -1,13 +1,13 @@
 # user:password:hash
 The **user:password:hash** command Generate a hash from a plaintext password.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal user:password:hash [arguments] 
 $ usph  
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 password | Password(s) in text format

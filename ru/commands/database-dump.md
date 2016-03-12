@@ -1,17 +1,17 @@
 # database:dump
 The **database:dump** command Dump structure and contents of a database
 
-**Usage:**
+**Использование:**
 ```
 $ drupal database:dump [arguments] [options] 
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --file | commands.database.dump.option.file
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 database | Database key from settings.php

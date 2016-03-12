@@ -1,18 +1,18 @@
 # config:export:single
 The **config:export:single** command Export single configuration as yml file.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal config:export:single [arguments] [options] 
 $ ces  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --directory | Define export directory to save configuration output.
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 config-name | Configuration name.
