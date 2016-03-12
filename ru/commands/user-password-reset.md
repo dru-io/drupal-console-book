@@ -1,14 +1,14 @@
 # user:password:reset
 The **user:password:reset** command Reset password for a specific user.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal user:password:reset [arguments] 
 $ uspr  
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 user | User ID
 password | Password in text format

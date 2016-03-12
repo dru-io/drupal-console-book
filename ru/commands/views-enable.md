@@ -1,13 +1,13 @@
 # views:enable
 The **views:enable** command Enable a View
 
-**Usage:**
+**Использование:**
 ```
 $ drupal views:enable [arguments] 
 $ ve  
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 view-id | View ID

@@ -1,19 +1,19 @@
 # config:export:content:type
 The **config:export:content:type** command Export a specific content type and their fields.
 
-**Usage:**
+**Использование:**
 ```
-$ drupal config:export:content:type [arguments] [options] 
+$ drupal config:export:content:type [arguments] [options]
 $ cect  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --module | The Module name.
 --optional-config | Export content type as an optional YAML configuration in your module
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 content-type | Content Type to be exported

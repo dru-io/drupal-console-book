@@ -1,14 +1,14 @@
 # generate:event:subscriber
 The **generate:event:subscriber** command Generate an event subscriber
 
-**Usage:**
+**Использование:**
 ```
 $ drupal generate:event:subscriber [options] 
 $ ges  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --module | The Module name.
 --name | commands.generate.service.options.name

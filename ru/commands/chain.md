@@ -1,12 +1,12 @@
 # chain
 The **chain** command Chain command execution
 
-**Usage:**
+**Использование:**
 ```
-$ drupal chain [options] 
+$ drupal chain [options]
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --file | User defined file containing commands to get executed.

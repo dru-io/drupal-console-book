@@ -1,13 +1,13 @@
 # config:override
 The **config:override** command Override config value in active configuration.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal config:override [arguments] 
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 config-name | Configuration name.
 key | Key

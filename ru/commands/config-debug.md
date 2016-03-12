@@ -1,13 +1,13 @@
 # config:debug
 The **config:debug** command Show the current configuration.
 
-**Usage:**
+**Использование:**
 ```
-$ drupal config:debug [arguments] 
+$ drupal config:debug [arguments]
 $ cde  
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 config-name | Configuration name.

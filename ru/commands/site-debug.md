@@ -1,13 +1,13 @@
 # site:debug
 The **site:debug** command List all known local and remote sites.
 
-**Usage:**
+**Использование:**
 ```
 $ drupal site:debug [arguments] 
 $ sd  
 ```
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 target | commands.site.debug.options.target

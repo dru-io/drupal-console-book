@@ -1,19 +1,19 @@
 # views:debug
 The **views:debug** command Display current views resources for the application
 
-**Usage:**
+**Использование:**
 ```
 $ drupal views:debug [arguments] [options] 
 $ vde  
 ```
 
-## Available options
-Option | Details
+## Доступные опции
+Опция | Описание
 -------|-------------
 --tag | View tag
 --status | View status (Enabled|Disabled)
 
-## Available arguments
-Argument | Details
+## Доступные аргументы
+Аргумент | Описание
 ---------|-------------
 view-id | View ID
